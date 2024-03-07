@@ -1,4 +1,4 @@
-# discor godbot
+# discord godbot
 
 #
 
